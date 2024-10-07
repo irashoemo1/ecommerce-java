@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Black Leather Jacket",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 45.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/v1728143679/chris-ghinda-wK2ESlRRZQ8-unsplash_dt5eia.jpg",
+    "category": "New Arrivals"
+  },
+  {
+    "id": 2,
+    "name": "Bon Bon Bear",
+    "description": "The sweetest bear there is. Hence the name!",
+    "price": 30.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/v1728143679/brooke-cagle-aVT8VkmzML4-unsplash_kovcbb.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 3,
+    "name": "Ginnie & Gemma Giraffe",
+    "description": "Twin sisters who love to play and have fun.",
+    "price": 40.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/toa-heftiba-dti56waifB4-unsplash_cwb5z7.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 4,
+    "name": "BB Bunny",
+    "description": "She's bashful and blushing. She's BB Bunny!",
+    "price": 35.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/larm-rmah-R1Ku62Z7zqE-unsplash_wsz4d9.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 5,
+    "name": "Una the Unicorn",
+    "description": "A magical unicorn to bring you good luck and fortune.",
+    "price": 45.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/jc-gellidon-JM8TkWJ9UIY-unsplash_wiuklq.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 6,
+    "name": "Evening Text Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 20.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/uji-kanggo-gumilang-sMn0sxR8v2E-unsplash_qzuulz.jpg",
+    "category": "Top Rated"
+  },
+  {
+    "id": 7,
+    "name": "Felipe Frog",
+    "description": "Felipe is jumping for joy to meet you!",
+    "price": 30.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/taylor-dG4Eb_oC5iM-unsplash_dopfjf.jpg",
+    "category": "Apmigurumi"
+  },
+  {
+    "id": 8,
+    "name": "Stylish Black Top",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 40.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/suhendro-purnomo-f0oLkvrnVOo-unsplash_bzie5y.jpg",
+    "category": "New Arrivals"
+  },
+  {
+    "id": 9,
+    "name": "White Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 60.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/raoul-croes-q3NX2NbbYmI-unsplash_wnxwxn.jpg",
+    "category": "Top Rated"
+  },
+  {
+    "id": 10,
+    "name": "Black Graphic T Shirt",
+    "description": "Finn is a sly as they come but he's a real softie.",
+    "price": 30.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/patrik-velich-v9eKhg8YaOA-unsplash_k9dfl9.jpg",
+    "category": "Best Sellers"
+  },
+  {
+    "id": 11,
+    "name": "Text Black T Shirt Short Sleeve",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 20.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/mohammad-faruque-0ZYPu-nLOwU-unsplash_obfuov.jpg",
+    "category": "Top Rated"
+  },
+  {
+    "id": 12,
+    "name": "Floral Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 70.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/mohamad-javad-barakouhi-rJvs1om1G0o-unsplash_xs3gkh.jpg",
+    "category": "Top Rated"
+  },
+  {
+    "id": 13,
+    "name": "Lincoln the Lion",
+    "description": "King of the jungle, but a gentle giant.",
+    "price": 35.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/laura-chouette-q4Wrsho-t2E-unsplash_rrg52o.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 14,
+    "name": "Olympia Owl",
+    "description": "As wise as they come, Olympia Owl is a hoot!",
+    "price": 40.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/kevin-gil-musngi-eCikWiyY6IY-unsplash_ckzt6m.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 15,
+    "name": "Magnus the Monkey",
+    "description": "He's a real charmer and a barrel of fun.",
+    "price": 35.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/laura-chouette-LXHyNufB8Ds-unsplash_vxpim7.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 16,
+    "name": "Prada Panda ",
+    "description": "Prada is a fashionista and loves to accessorize.",
+    "price": 25.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/kai-gabriel-2s3GhhJz2uY-unsplash_wxewnb.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 17,
+    "name": "Heart Break Graphic T Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 15.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/florencia-simonini-PDZAMYvduVk-unsplash_upb23x.jpg",
+    "category": "New Arrivals"
+  },
+  {
+    "id": 18,
+    "name": "Black Graphic T",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 15.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/faith-yarn-jX2cntCbrAo-unsplash_luwxwk.jpg",
+    "category": "Top Rated"
+  },
+  {
+    "id": 19,
+    "name": "Digit Dog",
+    "description": "He'll be your best friend and loyal companion.",
+    "price": 30.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/engin-akyurt-jaZoffxg1yc-unsplash_zvtcsf.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 20,
+    "name": "Shyla Sheep",
+    "description": "She's cuddly and cute and loves to snuggle.",
+    "price": 35.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/diego-vedita-PW1EOs9R-Xw-unsplash_mnkvhb.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 21,
+    "name": "Shyla Sheep",
+    "description": "She's cuddly and cute and loves to snuggle.",
+    "price": 35.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/brian-lawson-jRztw-pVdyk-unsplash_jeinof.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 22,
+    "name": "Shyla Sheep",
+    "description": "She's cuddly and cute and loves to snuggle.",
+    "price": 35.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/christian-bolt-WhnbNX5yeJo-unsplash_zevp93.jpg",
+    "category": "Amigurumi"
+  },
+  {
+    "id": 23,
+    "name": "White Road T Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 20.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/christian-bolt-VW5VjskNXZ8-unsplash_lbdfro.jpg",
+    "category": "Best Sellers"
+  },
+  {
+    "id": 24,
+    "name": "Black and White Striped Pants",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 50.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/alex-hddife-6wWiZlA2n0Q-unsplash_zans7p.jpg",
+    "category": "New Arrivals"
+  },
+  {
+    "id": 25,
+    "name": "White Sweated Crop Top",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 15.00,
+    "imageUrl": "https://res.cloudinary.com/dpltqxcor/image/upload/andreea-chidu-FPV2_FbNHoE-unsplash_b6brrt.jpg",
+    "category": "Top Rated"
+  }
+]
